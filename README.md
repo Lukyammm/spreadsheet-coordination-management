@@ -1,11 +1,14 @@
 # coordena_planilhas_gestao
 
+
+
+
 ## Guia visual do sistema
 
-> Mockups demonstrativos do sistema, com dados ficticios e sem informacoes reais de pacientes ou da instituicao.
+> Telas demonstrativas baseadas nos componentes, textos, cores e fluxos encontrados no código deste repositório. Os dados exibidos são fictícios e não representam pacientes, profissionais ou instituições reais.
 
-### Coordena Planilhas - visao geral
-![Coordena Planilhas - visao geral](./docs/screenshots/overview.svg)
+### Coordena Planilhas - estado do repositório
+![Coordena Planilhas - estado do repositório](./docs/screenshots/estado-repositorio.svg)
 
-### Coordena Planilhas - fluxo operacional
-![Coordena Planilhas - fluxo operacional](./docs/screenshots/workflow.svg)
+### Coordena Planilhas - blueprint mínimo
+![Coordena Planilhas - blueprint mínimo](./docs/screenshots/blueprint-minimo.svg)
