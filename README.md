@@ -1,6 +1,6 @@
 # Spreadsheet Coordination Management
 
-Repository: `coordena_planilhas_gestao`
+Repository: `spreadsheet-coordination-management`
 
 ## Overview
 
